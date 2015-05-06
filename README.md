@@ -1,3 +1,9 @@
+
+This repository began as a GitHub fork of [yogiben/meteor-starter](https://github.com/yogiben/meteor-starter).
+
+
+
+
 Meteor Starter
 ==============
 
